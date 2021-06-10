@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity implements DateRangePickerFr
     int Hour, Minute;
     Calendar calendar ;
 
+    
     final MemoOperator memoOperator = new MemoOperator(MainActivity.this);
 
 
