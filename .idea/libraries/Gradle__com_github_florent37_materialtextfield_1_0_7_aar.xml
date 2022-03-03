@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.florent37:materialtextfield:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/680b40c5dd9015a7c68b2c5a81739c8b/jetified-materialtextfield-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/680b40c5dd9015a7c68b2c5a81739c8b/jetified-materialtextfield-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/680b40c5dd9015a7c68b2c5a81739c8b/jetified-materialtextfield-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa59c4b5315137cb46e3af55e3b710c6/jetified-materialtextfield-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa59c4b5315137cb46e3af55e3b710c6/jetified-materialtextfield-1.0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa59c4b5315137cb46e3af55e3b710c6/jetified-materialtextfield-1.0.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15e0112f08ecd3bba99f36ff9f9fc6f2/jetified-materialtextfield-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15e0112f08ecd3bba99f36ff9f9fc6f2/jetified-materialtextfield-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15e0112f08ecd3bba99f36ff9f9fc6f2/jetified-materialtextfield-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/materialtextfield/1.0.7/2d625ae2d84820b023b8409ef34b0047f89584f3/materialtextfield-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/materialtextfield/1.0.7/8c3c4ac87add91016e79ce875170d5fcdd1ff9c6/materialtextfield-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
